@@ -61,4 +61,9 @@ Display results clearly using **formatted strings** and structured output statem
 
 ---
 
+The repository also includes:  
+📁 A folder containing **screenshots** of my work  
+📄 A **copy of the original Google Colab file** used during the exercises  
+
+
 Thanks for visiting this project! 🚀  
